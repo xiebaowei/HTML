@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>网站图片信息显示页面</title>
+	</head>
+	<body>
+		
+		<img src="../img/照片IMG_20170829_151411.jpg" width="150px"height="100px"alt="logo图片"/>
+		<img src="../img/照片IMG_20170829_152455.jpg"width="150px"height="100px"alt="heard图片"/>
+	</body>
+</html>
